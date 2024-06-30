@@ -2,8 +2,6 @@
 
 ## Data Scientist | Data Engineer | Machine Learning Enthusiast
 
-![Profile views](https://gpvc.arturio.dev/Ravindranathkv)
-
 ### About Me
 
 I am a detail-oriented Data Scientist with over 5 years of experience leveraging machine learning, data engineering, and advanced analytics to solve complex problems. I have a proven track record in Python, SQL, and cloud technologies. I am passionate about driving innovation and operational excellence in challenging roles within forward-thinking organizations.
